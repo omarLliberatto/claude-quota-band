@@ -1,0 +1,1 @@
+{ "name": "quota-band", "version": "0.1.0", "description": "Banda sobre el prompt con contexto, cuota de 5 h y de 7 d en color.", "types": "./types/index.d.ts" }
